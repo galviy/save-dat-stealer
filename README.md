@@ -14,3 +14,5 @@ editing webhook url
 ```js
 const client = new Webhook('your webhook url');//your webhook url
 ```
+
+![alt text](https://media.discordapp.net/attachments/866632360165376060/878156135037796392/unknown.png?width=493&height=473)
