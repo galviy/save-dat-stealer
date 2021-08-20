@@ -1,5 +1,5 @@
 # Node-Save.dat-stealer
-Super simple save.dat stealer written by node js
+Super simple growtopia save.dat stealer written by node js
 
 Installation
 =======
