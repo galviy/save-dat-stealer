@@ -21,4 +21,4 @@ const client = new Webhook('your webhook url');//your webhook url
 reminder
 ===============
 
-I am not responsible for what you do, the purpose of this creation is for knowledge
+I am not responsible for what your action, the purpose of this creation is for knowledge
